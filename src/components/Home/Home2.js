@@ -35,7 +35,7 @@ function Home2() {
                   MernStack and Node.js.
                 </b>
               </i>
-              <br />
+              <br />  
               <br />
               Whenever possible, I also apply my passion for web developing products
               with <b className="purple">Web3.js</b>
